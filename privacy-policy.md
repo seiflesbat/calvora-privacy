@@ -73,7 +73,7 @@ support process.
 For privacy questions or deletion requests, contact:
 
 ```text
-seiflesbat@gmail.com
+Algorise@usa.com
 ```
 
 ## Changes
